@@ -119,6 +119,22 @@ bool = isFloat32Array( null );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/assert/is-float64array`][@stdlib/assert/is-float64array]: test if a value is a Float64Array.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -175,6 +191,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/assert-is-float32array/main/LICENSE
 
 [mdn-float32array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array
+
+<!-- <related-links> -->
+
+[@stdlib/assert/is-float64array]: https://github.com/stdlib-js/assert-is-float64array
+
+<!-- </related-links> -->
 
 </section>
 
